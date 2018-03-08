@@ -1,5 +1,6 @@
 # Image-Processing
 1.rotate 90 and 270 degree
+
   with Algorithm  imgX = 128+((i-128) * cos90) + ((j-128) * sin90);
                   imgY = 128+((i-128) * sin90) + ((j-128) * cos90);
         
