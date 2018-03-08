@@ -1,0 +1,9 @@
+c:\users\mahde\documents\visual studio 2015\Projects\BMP\BMP\bin\Debug\BMP.exe.config
+c:\users\mahde\documents\visual studio 2015\Projects\BMP\BMP\bin\Debug\BMP.exe
+c:\users\mahde\documents\visual studio 2015\Projects\BMP\BMP\bin\Debug\BMP.pdb
+c:\users\mahde\documents\visual studio 2015\Projects\BMP\BMP\obj\Debug\BMP.csprojResolveAssemblyReference.cache
+c:\users\mahde\documents\visual studio 2015\Projects\BMP\BMP\obj\Debug\BMP.Form1.resources
+c:\users\mahde\documents\visual studio 2015\Projects\BMP\BMP\obj\Debug\BMP.Properties.Resources.resources
+c:\users\mahde\documents\visual studio 2015\Projects\BMP\BMP\obj\Debug\BMP.csproj.GenerateResource.Cache
+c:\users\mahde\documents\visual studio 2015\Projects\BMP\BMP\obj\Debug\BMP.exe
+c:\users\mahde\documents\visual studio 2015\Projects\BMP\BMP\obj\Debug\BMP.pdb
